@@ -1,0 +1,87 @@
+{"metadata":{},"level":"error","message":"Something failed during startup."}
+{"metadata":{},"level":"error","message":"Something failed during startup."}
+{"level":"error","message":"Something failed during startup. Something failed during startup.","stack":"Error: Something failed during startup.\n    at Object.<anonymous> (D:\\Program Files\\File Dokumen\\Node\\vidly\\index.js:38:7)\n    at Module._compile (internal/modules/cjs/loader.js:959:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)\n    at Module.load (internal/modules/cjs/loader.js:815:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:727:14)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:1047:10)\n    at internal/main/run_main_module.js:17:11"}
+{"level":"error","message":"Something failed during startup. Something failed during startup.","stack":"Error: Something failed during startup.\n    at Object.<anonymous> (D:\\Program Files\\File Dokumen\\Node\\vidly\\index.js:38:7)\n    at Module._compile (internal/modules/cjs/loader.js:959:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)\n    at Module.load (internal/modules/cjs/loader.js:815:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:727:14)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:1047:10)\n    at internal/main/run_main_module.js:17:11"}
+{"metadara":{},"level":"error","message":"Something failed during startup."}
+{"metadata":{},"level":"error","message":"Something failed during startup."}
+{"metadata":{},"level":"error","message":"Something failed during startup."}
+{"metadata":{},"level":"error","message":"Something failed during startup."}
+{"metadata":{},"level":"error","message":"Something failed miserably."}
+{"metadata":{},"level":"error","message":"Something failed miserably."}
+{"metadata":{},"level":"error","message":"Something failed miserably."}
+{"metadata":{},"level":"error","message":"Something failed miserably."}
+{"metadata":{},"level":"error","message":"Something failed during startup."}
+{"metadata":{},"level":"error","message":"Something failed during startup."}
+{"metadata":{},"level":"error","message":"Something failed miserably."}
+{"metadata":{},"level":"error","message":"Something failed miserably."}
+{"metadata":{},"level":"error","message":"Something failed during startup."}
+{"metadata":{},"level":"error","message":"Something failed during startup."}
+{"metadata":{},"level":"error","message":"Something failed during startup."}
+{"metadata":{},"level":"error","message":"Something failed during startup."}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3200","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3500","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly-node-test...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly-node-test...","level":"info"}
+{"metadata":{},"level":"error","message":"Could not get the genres."}
+{"metadata":{},"level":"error","message":"Could not get the genres."}
+{"metadata":{},"level":"error","message":"Could not get the genres."}
+{"metadata":{},"level":"error","message":"Could not get the genres."}
+{"message":"Connected to mongodb://localhost/vidly-node...","level":"info"}
+{"metadata":{},"level":"error","message":"Could not get the genres."}
+{"metadata":{},"level":"error","message":"Could not get the genres."}
+{"message":"Connected to mongodb://localhost/vidly-node...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly-node...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly-node...","level":"info"}
+{"metadata":{},"level":"error","message":"Could not get the genres."}
+{"message":"Connected to mongodb://localhost/vidly-node...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly-node...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly-node...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly-node...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly-node...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly-node...","level":"info"}
+{"metadata":{},"level":"error","message":"Could not get the genres."}
+{"metadata":{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id"},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\""}
+{"metadata":{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Customer\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id"},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Customer\""}
+{"metadata":{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Customer\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id"},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Customer\""}
+{"metadata":{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Customer\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id"},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Customer\""}
+{"metadata":{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Movie\"","name":"CastError","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id"},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Movie\""}
+{"metadata":{"code":"ERR_HTTP_HEADERS_SENT"},"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"metadata":{"code":"ERR_HTTP_HEADERS_SENT"},"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"metadata":{"code":"ERR_HTTP_HEADERS_SENT"},"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"metadata":{},"level":"error","message":"Assignment to constant variable."}
+{"metadata":{},"level":"error","message":"Cannot read property 'save' of null"}
+{"metadata":{},"level":"error","message":"Assignment to constant variable."}
+{"metadata":{},"level":"error","message":"Assignment to constant variable."}
+{"metadata":{},"level":"error","message":"genre is not defined"}
+{"metadata":{},"level":"error","message":"Cannot read property 'save' of null"}
+{"metadata":{},"level":"error","message":"genre is not defined"}
+{"metadata":{},"level":"error","message":"genre is not defined"}
+{"metadata":{},"level":"error","message":"Cannot set property 'dateReturned' of null"}
+{"metadata":{"message":"No document found for query \"{ _id: 601d5cd3a6aef519e0fc4257 }\"","name":"DocumentNotFoundError","query":{"_id":"601d5cd3a6aef519e0fc4257"}},"level":"error","message":"No document found for query \"{ _id: 601d5cd3a6aef519e0fc4257 }\""}
+{"metadata":{},"level":"error","message":"moment is not defined"}
+{"metadata":{},"level":"error","message":"moment is not defined"}
+{"metadata":{},"level":"error","message":"moment is not defined"}
+{"metadata":{"errors":{"rentalCost":{"message":"Cast to Number failed for value \"NaN\" at path \"rentalCost\"","name":"CastError","stringValue":"\"NaN\"","kind":"Number","value":null,"path":"rentalCost","reason":{"message":"Cast to number failed for value \"NaN\" at path \"rentalCost\"","name":"CastError","stringValue":"\"NaN\"","kind":"number","value":null,"path":"rentalCost"}}},"_message":"Rental validation failed","message":"Rental validation failed: rentalCost: Cast to Number failed for value \"NaN\" at path \"rentalCost\"","name":"ValidationError"},"level":"error","message":"Rental validation failed: rentalCost: Cast to Number failed for value \"NaN\" at path \"rentalCost\""}
+{"metadata":{"errors":{"rentalCost":{"message":"Cast to Number failed for value \"NaN\" at path \"rentalCost\"","name":"CastError","stringValue":"\"NaN\"","kind":"Number","value":null,"path":"rentalCost","reason":{"message":"Cast to number failed for value \"NaN\" at path \"rentalCost\"","name":"CastError","stringValue":"\"NaN\"","kind":"number","value":null,"path":"rentalCost"}}},"_message":"Rental validation failed","message":"Rental validation failed: rentalCost: Cast to Number failed for value \"NaN\" at path \"rentalCost\"","name":"ValidationError"},"level":"error","message":"Rental validation failed: rentalCost: Cast to Number failed for value \"NaN\" at path \"rentalCost\""}
+{"metadata":{"errors":{"rentalCost":{"message":"Cast to Number failed for value \"NaN\" at path \"rentalCost\"","name":"CastError","stringValue":"\"NaN\"","kind":"Number","value":null,"path":"rentalCost","reason":{"message":"Cast to number failed for value \"NaN\" at path \"rentalCost\"","name":"CastError","stringValue":"\"NaN\"","kind":"number","value":null,"path":"rentalCost"}}},"_message":"Rental validation failed","message":"Rental validation failed: rentalCost: Cast to Number failed for value \"NaN\" at path \"rentalCost\"","name":"ValidationError"},"level":"error","message":"Rental validation failed: rentalCost: Cast to Number failed for value \"NaN\" at path \"rentalCost\""}
+{"metadata":{"message":"Cast to ObjectId failed for value \"\" at path \"_id\" for model \"Rental\"","name":"CastError","stringValue":"\"\"","kind":"ObjectId","value":"","path":"_id"},"level":"error","message":"Cast to ObjectId failed for value \"\" at path \"_id\" for model \"Rental\""}
+{"metadata":{"message":"Cast to ObjectId failed for value \"\" at path \"_id\" for model \"Rental\"","name":"CastError","stringValue":"\"\"","kind":"ObjectId","value":"","path":"_id"},"level":"error","message":"Cast to ObjectId failed for value \"\" at path \"_id\" for model \"Rental\""}
+{"metadata":{"expose":true,"statusCode":400,"status":400,"body":"{\r\n    \"title\": \"Alice in Wonderland\",\r\n    \"genreId\": \r\n}","type":"entity.parse.failed"},"level":"error","message":"Unexpected token } in JSON at position 57"}
+{"metadata":{"expose":true,"statusCode":400,"status":400,"body":"{\r\n    \"title\": \"Alice in Wonderland\",\r\n    \"genreId\": \r\n}","type":"entity.parse.failed"},"level":"error","message":"Unexpected token } in JSON at position 57"}
+{"metadata":{"expose":true,"statusCode":400,"status":400,"body":"{\r\n    \"title\": \"Alice in Wonderland\",\r\n    \"genreId\": \r\n}","type":"entity.parse.failed"},"level":"error","message":"Unexpected token } in JSON at position 57"}
+{"metadata":{"expose":true,"statusCode":400,"status":400,"body":"{\r\n    \"title\": \"Alice in Wonderland\",\r\n    \"genreId\": \r\n}","type":"entity.parse.failed"},"level":"error","message":"Unexpected token } in JSON at position 57"}
+{"metadata":{"expose":true,"statusCode":400,"status":400,"body":"{\r\n    \"title\": \"Alice in Wonderland\",\r\n    \"genreId\": \r\n}","type":"entity.parse.failed"},"level":"error","message":"Unexpected token } in JSON at position 57"}
+{"metadata":{"expose":true,"statusCode":400,"status":400,"body":"{\n\t\"name\": \"ilmi\"\n\t\"email\": \"ilmiazyua@gmail.com\",\n\t\"password\": \"123456\"\n}","type":"entity.parse.failed"},"level":"error","message":"Unexpected string in JSON at position 19"}
